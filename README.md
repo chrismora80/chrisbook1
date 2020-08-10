@@ -4,7 +4,7 @@ A react based google book search app.
 
 ## Demo
 
-Google Books is hosted on Heroku. Check here [clicking here](https://limitless-wave-94728.herokuapp.com/).
+Google Books is hosted on Heroku. [clicking here](https://limitless-wave-94728.herokuapp.com/). to see the Demo.
 
 ## Technologies Used
 
